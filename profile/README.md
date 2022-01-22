@@ -4,7 +4,7 @@
 
 ### Web-based utilities 
 
-* [pdfremoveprotection](https://pyscioffice.github.io/pdfremoveprotection) - Remove password protection from pdf file. 
+* [pdfremoveprotection](https://pyscioffice.github.io/pdfremoveprotection) - Remove password protection from `*.pdf` files. 
 * [mov2gif](https://pyscioffice.github.io/mov2gif) - Convert `*.mov` files to `*.gif`.
 * [html2xlsx](https://pyscioffice.github.io/html2xlsx) - Download tables from websites as `*.xlsx` files.
 * [pdf-sentences-counter](https://pyscioffice.github.io/pdf-sentences-counter) - Count sentences in `*.pdf` documents. 
