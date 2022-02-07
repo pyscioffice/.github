@@ -21,3 +21,4 @@
 ### Work in progress 
 
 * [pygmailfilters](https://github.com/pyscioffice/pygmailfilter) - Python interface to filter emails on Google Mail.
+* [gmail2pdf](https://github.com/pyscioffice/gmail2pdf) - An archiving solution for Google Mail. 
