@@ -12,13 +12,7 @@
 ### Command line utilities
 
 * [pyauthenticator](https://github.com/pyscioffice/pyauthenticator) - Command line utility for two factor authentication. 
-
-### Cloud-based utilities 
-
 * [pyimapsync](https://github.com/pyscioffice/pyimapsync) - Sync email folders via IMAP between different email providers. 
 * [outlook-disable-spam-filter](https://github.com/pyscioffice/outlook-disable-spam-filter) - Fully disable the `outlook.com` spam filter.
-
-### Work in progress 
-
 * [pygmailfilters](https://github.com/pyscioffice/pygmailfilter) - Python interface to filter emails on Google Mail.
 * [gmail2pdf](https://github.com/pyscioffice/gmail2pdf) - An archiving solution for Google Mail. 
