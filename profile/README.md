@@ -5,13 +5,13 @@
 ### Web-based utilities 
 
 * [pdfremoveprotection](https://pyscioffice.github.io/pdfremoveprotection) - Remove password protection from `*.pdf` files. 
-* [mov2gif](https://pyscioffice.github.io/mov2gif) - Convert `*.mov` files to `*.gif`.
 * [html2xlsx](https://pyscioffice.github.io/html2xlsx) - Download tables from websites as `*.xlsx` files.
 * [pdf-sentences-counter](https://pyscioffice.github.io/pdf-sentences-counter) - Count sentences in `*.pdf` documents. 
 
 ### Command line utilities
 
 * [pyauthenticator](https://github.com/pyscioffice/pyauthenticator) - Command line utility for two factor authentication. 
+* [pymov2gif](https://github.com/pyscioffice/pymov2gif) - Convert `*.mov` files to `*.gif`.
 * [pyimapsync](https://github.com/pyscioffice/pyimapsync) - Sync email folders via IMAP between different email providers. 
 * [outlook-disable-spam-filter](https://github.com/pyscioffice/outlook-disable-spam-filter) - Fully disable the `outlook.com` spam filter.
 * [pygmailfilters](https://github.com/pyscioffice/pygmailfilter) - Python interface to filter emails on Google Mail.
