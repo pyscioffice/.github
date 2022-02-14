@@ -6,3 +6,13 @@
 * [pydatamail_google](https://github.com/pyscioffice/pydatamail_google) - Python Data Mail interface for Google Mail. 
 * [pyimapsync](https://github.com/pyscioffice/pyimapsync) - Sync email folders via IMAP between different email providers. 
 * [pymov2gif](https://github.com/pyscioffice/pymov2gif) - Convert `*.mov` files to the `*.gif` format.
+
+All these packages can be directly installed via `conda`: 
+```
+conda install -c conda-forge pyauthenticator pydatamail_google pyimapsync pymov2gif
+```
+
+Or alternatively `pip`: 
+```
+pip install pyauthenticator pydatamail_google pyimapsync pymov2gif
+```
