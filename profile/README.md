@@ -6,10 +6,10 @@
 
 All these packages can be directly installed via `conda`: 
 ```
-conda install -c conda-forge pyimapsync pymov2gif
+conda install -c conda-forge pyimapsync
 ```
 
 Or alternatively `pip`: 
 ```
-pip install pyimapsync pymov2gif
+pip install pyimapsync
 ```
